@@ -1,2 +1,1 @@
-# ZUI_downloads
-the source code's in the main ztheme repo btw
+i have no idea why i merged the two repos lol
